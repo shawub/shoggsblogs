@@ -32,7 +32,7 @@ An absolute mess, the worst of all worlds. A plethora of single use connections 
 
 ![Screenshot 2023-10-26 at 13.16.45.png|undefined](/img/user/References/Screenshot%202023-10-26%20at%2013.16.45.png)
 
-Because we understand that with hand-written solutions there is an "entanglement tax" on everything that came before us. The platform offers re-usable building blocks that both save time and add value. So we have conflicting needs. We want the re-usability and efficiency offered by the platform. We also want a single, coherent source of truth, to have high developer velocity and the also ability to deliver great user experiences.
+Because we understand that with hand-written solutions there is an "entanglement tax" on everything that came before us. The platform offers re-usable building blocks that both save time and add value. So we have conflicting needs. We want the re-usability and efficiency offered by the platform. We also want a single, coherent source of truth, to have high developer velocity and to deliver great user experiences.
 
 The Supergraph is a way to meet these conflicting requirements.
 
